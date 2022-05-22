@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on a project to create a social network in a company.
-- 🌱 I’m currently learning Vue.js and MySQL.
+- 🌱 I’m currently learning React and MySQL.
 
 - 🚀 My current stack:
 
